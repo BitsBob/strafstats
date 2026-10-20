@@ -1,0 +1,8 @@
+/Users/audey/Programming/Strafstats/src/strafstats/obj/Release/netstandard2.1/strafstats.csproj.AssemblyReference.cache
+/Users/audey/Programming/Strafstats/src/strafstats/obj/Release/netstandard2.1/strafstats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/audey/Programming/Strafstats/src/strafstats/obj/Release/netstandard2.1/strafstats.csproj.CoreCompileInputs.cache
+/Users/audey/Programming/Strafstats/src/Strafstats/bin/Release/netstandard2.1/strafstats.deps.json
+/Users/audey/Programming/Strafstats/src/strafstats/bin/Release/netstandard2.1/strafstats.dll
+/Users/audey/Programming/Strafstats/src/strafstats/bin/Release/netstandard2.1/strafstats.pdb
+/Users/audey/Programming/Strafstats/src/strafstats/obj/Release/netstandard2.1/strafstats.dll
+/Users/audey/Programming/Strafstats/src/strafstats/obj/Release/netstandard2.1/strafstats.pdb
